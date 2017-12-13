@@ -20,7 +20,6 @@ var/
 .serverless
 
 # Editor directories and files
-.idea
 
 # User-specific stuff:
 .idea/**/workspace.xml
